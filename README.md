@@ -2,8 +2,6 @@
   "info": {
     "_postman_id": "a9e42c40-b8c5-4d24-aed2-6bb1aa36a550",
     "name": "Dealer-Vehicle-Payment API",
-    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-    "_exporter_id": "chatgpt-gpt5"
   },
 
   "item": [
