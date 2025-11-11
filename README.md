@@ -14,10 +14,7 @@
           "request": {
             "method": "POST",
             "header": [
-              {
-                "key": "Content-Type",
-                "value": "application/json"
-              }
+              { "key": "Content-Type", "value": "application/json" }
             ],
             "body": {
               "mode": "raw",
@@ -30,8 +27,7 @@
               "port": "8080",
               "path": ["api", "dealers"]
             }
-          },
-          "response": []
+          }
         },
         {
           "name": "Get All Dealers",
